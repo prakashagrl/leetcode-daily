@@ -1,19 +1,20 @@
-Daily LeetCode
+# Daily LeetCode
 
 This repository contains my daily solutions to LeetCode problems. The goal is to consistently practice Data Structures and Algorithms, improve problem-solving skills, and prepare for coding interviews and placements.
 
-Goals
+## Goals
 
-- Improve problem-solving and logical thinking
-- Strengthen Data Structures and Algorithms
-- Build consistency through daily practice
-- Prepare for coding interviews and placements
-- Learn and revise different problem-solving patterns
+* Improve problem-solving and logical thinking
+* Strengthen Data Structures and Algorithms
+* Build consistency through daily practice
+* Prepare for coding interviews and placements
+* Learn and revise different problem-solving patterns
 
-Repository Structure
+## Repository Structure
 
 Solutions are organized month-wise:
 
+```text
 Daily-LeetCode/
 │
 ├── August/
@@ -27,55 +28,59 @@ Daily-LeetCode/
 │   └── ...
 │
 └── README.md
+```
 
 Each problem folder may contain:
 
-- Problem solution
-- Approach or explanation
+* Problem solution
+* Approach or explanation
+* Time complexity
+* Space complexity
 
-Language
+## Language
 
 Most solutions in this repository are written in:
 
-C++
+**C++**
 
 Additional programming languages may be added in the future.
 
-Topics Covered
+## Topics Covered
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks and Queues
-- Hashing
-- Recursion
-- Sorting
-- Searching
-- Binary Search
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
-- Bit Manipulation
-- Mathematical Problems
+* Arrays
+* Strings
+* Linked Lists
+* Stacks and Queues
+* Hashing
+* Recursion
+* Sorting
+* Searching
+* Binary Search
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
+* Bit Manipulation
+* Mathematical Problems
 
-Progress
+## Progress
 
-Month| Problems Solved
-August| In Progress
-September| In Progress
-October| Upcoming
+| Month     | Problems Solved |
+| --------- | --------------: |
+| August    |     In Progress |
+| September |     In Progress |
+| October   |        Upcoming |
 
 This section will be updated as I continue solving problems.
 
-Daily Practice
+## Daily Practice
 
 The primary purpose of this repository is to maintain consistency and track my progress in DSA.
 
 One problem at a time. One day at a time.
 
-Why This Repository?
+## Why This Repository?
 
 This repository helps me:
 
@@ -85,18 +90,20 @@ This repository helps me:
 4. Understand and identify common problem-solving patterns.
 5. Build a consistent coding habit.
 
-Disclaimer
+## Disclaimer
 
 These solutions represent my learning process and individual attempts. There may be multiple approaches to a problem, and a solution in this repository may not always be the most optimal one.
 
+Suggestions and improvements are always welcome.
+
 ---
 
-Author
+## Author
 
-Prakash Agrawal
+**Prakash Agrawal**
 
 Computer Science and Engineering Student
 
 ---
 
-Consistency over motivation.
+**Consistency over motivation.**
