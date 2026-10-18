@@ -1,4 +1,4 @@
-# Daily LeetCode
+## Daily LeetCode
 
 This repository contains my daily solutions to LeetCode problems. The goal is to consistently practice Data Structures and Algorithms, improve problem-solving skills, and prepare for coding interviews and placements.
 
