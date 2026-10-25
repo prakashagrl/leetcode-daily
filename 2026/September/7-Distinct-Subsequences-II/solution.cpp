@@ -1,6 +1,8 @@
-class Solution {
+class Solution
+{
 public:
-    int distinctSubseqII(string s) {
+    int distinctSubseqII(string s)
+    {
         const long long MOD = 1000000007;
 
         // dp[i] = number of distinct subsequences
@@ -12,7 +14,8 @@ public:
         // Last occurrence of each character
         vector<int> last(26, -1);
 
-        for (int i = 1; i <= s.size(); i++) {
+        for (int i = 1; i <= s.size(); i++)
+        {
             int c = s[i - 1] - 'a';
 
             // Add all subsequences formed by appending s[i-1]
@@ -20,7 +23,8 @@ public:
 
             // If this character appeared before,
             // remove duplicate subsequences.
-            if (last[c] != -1) {
+            if (last[c] != -1)
+            {
                 dp[i] = (dp[i] - dp[last[c] - 1] + MOD) % MOD;
             }
 
